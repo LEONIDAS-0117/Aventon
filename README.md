@@ -36,4 +36,3 @@ Comparti tu viaje y ahorra plata
 * **Pablo Kepes**
 
 * **Facundo Olasagarre**
->>>>>>> 0798c5ae25639b62c3ac4d56c8928369a56a6b52
